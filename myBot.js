@@ -16,4 +16,4 @@ botRem.on('message', message => {
   }
 });
 
-botRem.login('YOUR BOT TOKEN HERE!!!');
+botRem.login('MzEzMzAwOTU5MDQ2NDAyMDQ5.C_nrBQ.bavgh8WvqV6H9qMuWURPZjV7_PQ');
